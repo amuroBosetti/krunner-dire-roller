@@ -1,3 +1,8 @@
+## Backlog
+- [ ] BUG remove initial `+` sign
+- [ ] FEATURE allow adding or substracting from rolls (ie roll 1d20 + 3)
+- [ ] FEATURE use main action to reroll
+
 ## Compile plugin to self-contained executable
 
 From project root folder run:
